@@ -9,7 +9,7 @@ It was also interresting to compile C code and launch it in the browser.
 
 sudo apt install libsdl2-dev
 
-make main
+make main </br>
 ./build/raycasting
 
 ### Browser:
